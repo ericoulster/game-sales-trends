@@ -1,0 +1,29 @@
+2017	Beauty and the Beast (2017)	"$1,263.50 "
+2016	Captain America: Civil War	"$1,153.30 "
+2015	Star Wars: The Force Awakens	"$2,068.20 "
+2014	Transformers: Age of Extinction	"$1,104.10 "
+2013	Frozen	"$1,276.50 "
+2012	Marvel's The Avengers	"$1,518.80 "
+2011	Harry Potter and the Deathly Hallows Part 2	"$1,341.50 "
+2010	Toy Story 3	"$1,067.00 "
+2009	Avatar	"$2,777.20 "
+2008	The Dark Knight	"$1,003.00 "
+2007	Pirates of the Caribbean: At World's End	$963.40 
+2006	Pirates of the Caribbean: Dead Man's Chest	"$1,066.20 "
+2005	Harry Potter and the Goblet of Fire	$896.90 
+2004	Shrek 2	$919.80 
+2003	The Lord of the Rings: The Return of the King	"$1,119.10 "
+2002	The Lord of the Rings: The Two Towers	$923.30 
+2001	Harry Potter and the Sorcerer's Stone	$974.80 
+2000	Mission: Impossible II	$546.40 
+1999	Star Wars: Episode I - The Phantom Menace	$983.60 
+1998	Armageddon	$553.70 
+1997	Titanic	"$2,128.90 "
+1996	Independence Day	$817.40 
+1995	Toy Story	$373.60 
+1994	The Lion King	$858.60 
+1993	Jurassic Park	$983.80 
+1992	Aladdin	$504.10 
+1991	Terminator 2: Judgment Day	$519.80 
+1990	Ghost	$505.70 
+1989	Indiana Jones and the Last Crusade	$474.20 
